@@ -10,6 +10,7 @@ Essentially:
  - 1 goes NW -> N -> N
  - 2 goes N -> S -> NW
  - everyone else resolves normally (back to clock positions but go N or S to resolve buff if needed)
-for top to bottom, it will be similar, but:
+
+For top to bottom, it will be similar, but:
  - 1 goes NW -> S -> N
  - 2 stays N -> N -> NW
