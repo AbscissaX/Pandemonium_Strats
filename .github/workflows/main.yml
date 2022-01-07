@@ -8,4 +8,4 @@ jobs:
     steps:
       - uses: docker://pandoc/core:2.9
         with:
-          args: "pandoc /home/runner/work/Pandemonium_Strats/Pandemonium_Strats/*.md > markdown_book.html" # gets appended to pandoc command
+          args: "ls" # gets appended to pandoc command
