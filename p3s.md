@@ -1,7 +1,7 @@
 # Asphodelos: The Third Circle
 Text guide: https://docs.google.com/document/d/1QHEFlnXBwFdDX4pB2tODqoRz8IjRkDyZz7LvbhTOwx8/edit
 ## PF message
-/ Myta / TMR / TM N-W HR S-E /
+Clear party / 2 chest / Myta / TMR / TM N-W + left nado / HR S-E + right nado / Don't meme, ask questions if you need
 ## Fountain of Flames (FoF)
 FoF is almost always TMR in pugs (tanks first, melee, then ranged) while the healer is doing fountains.
 
