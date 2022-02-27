@@ -19,6 +19,14 @@ Fixed position Role Orbs: https://raidplan.io/plan/jii-A5WXesGWi0Nl
  
 ### Act 2
 https://raidplan.io/plan/YdqnWenNqMhEetSi
+#### Healer Notes
+Healers - if A is tethered - Purple buff goes C (bait aoe one CCW turn away first)
+
+Healers - if A is tethered - Orange buff goes 1 (bait aoe max melee of boss first)
+
+Healers - if 1 is tethered - Purple buff goes B (bait aoe one CCW turn away first)
+
+Healers - if 1 is tethered - Orange buff goes 4 (bait aoe max melee of boss first)
 ### Act 3
 Ilya's strat is decent for this one (https://raidplan.io/plan/zA7tmvwE_b7ACwDC)
 ### Curtain Call
