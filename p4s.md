@@ -16,9 +16,13 @@ Alternative Strats (Note the strat in your PF description):
 Fixed position Role Orbs: https://raidplan.io/plan/jii-A5WXesGWi0Nl
  
 ## Phase 2:
+Absolute towers
  
 ### Act 2
 https://raidplan.io/plan/YdqnWenNqMhEetSi
+
+#### DPS Notes
+Fire E/S Wind N/W, 1-4 priority system (lower number goes CCW aka to the right)
 #### Healer Notes
 Healers - if A is tethered - Purple buff goes C (bait aoe one CCW turn away first)
 
