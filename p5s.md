@@ -4,7 +4,7 @@
 - Healers Start at 1 and go Clockwise to find their tower
 - Range DPS Start at 4 and go Counter Clockwise to find their tower
 - Tanks take the north closes tower
-- Melee take the 
+- Melee take the south closes tower
 
 ## Squall vs Surge
  - Squall =  Spread(go to Clock Pos) Stack(bait in center) Soak(Light Parties groups)
