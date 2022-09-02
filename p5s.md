@@ -11,6 +11,7 @@
  - Surge = Soak(Light Parties groups) Stack(bait in center) Spread(go to Clock Pos)
 
 ## Devour
+(Click for Video)
 [![Watch the video](https://img.youtube.com/vi/ogH5TAok5CA/maxresdefault.jpg)](https://youtu.be/ogH5TAok5CA)
 ## Role Pairs for Poison Towers
  - Healers Stack west
@@ -20,4 +21,5 @@
 
 
 ## Squall 2
+(Click for Video)
 [![Watch the video](https://img.youtube.com/vi/4uJFq2dSKMg/maxresdefault.jpg)](https://youtu.be/4uJFq2dSKMg)
